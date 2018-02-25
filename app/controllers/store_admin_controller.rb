@@ -1,2 +1,4 @@
 class StoreAdminController < ApplicationController
-  layout: "admin"
+  layout "admin"
+
+end
